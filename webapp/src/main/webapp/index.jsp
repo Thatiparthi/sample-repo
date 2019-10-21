@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>this is my first jenkins project by using POLL SCM</h2>
+<h2>this is testing project for poll scm with autodeploy</h2>
 </body>
 </html>
